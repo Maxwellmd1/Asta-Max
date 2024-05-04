@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Astro",
+        "value": "𝑴𝑨𝑿𝑾𝑬𝑳𝑳",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "ᴀsᴛᴀ-ᴍᴅ"
+        "value": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -64,7 +64,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
-        "value": "",
+        "value": "HRKU-9fb4e020-d303-4c6d-9143-f6b59d7bd9e1",
         "required": true
       },
       "HEROKU_APP_NAME": {
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348039607375"
+        "value": "2349120730021"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,7 +115,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Asta Md",
+        "value": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
         "required": false
       },
       "PACK_AUTHER": {
